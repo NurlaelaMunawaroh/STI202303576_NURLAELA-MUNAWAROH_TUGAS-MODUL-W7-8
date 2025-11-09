@@ -1,0 +1,2 @@
+C:/Users/dwian/mediajurnal/build/.cxx/debug/1b35j134/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/dwian/mediajurnal/build/.cxx/debug/1b35j134/arm64-v8a/CMakeFiles/rebuild_cache.dir
